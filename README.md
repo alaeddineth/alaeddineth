@@ -22,6 +22,8 @@
 - [ERP Development with Eunoia Code](): Collaborated on the development of an Enterprise Resource Planning (ERP) system using Laravel and MySQL.
 - [Carpool Application](): Created a carpooling platform to facilitate ridesharing among employees, improving transportation efficiency.
 - [Leave Management System (LMS) Application](): Developed an LMS web app for tracking and managing employee leaves, enhancing HR processes.
+-  [Freelancer Platform](): Developed a freelancer platform.
+
 
 Here are some ideas to get you started:
 
