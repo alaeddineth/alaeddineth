@@ -2,7 +2,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alaeddineth&show_icons=true" alt="alaeddineth" /></p>
 
 
-<br> <!-- Line break added here -->
 ### Stats
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaeddineth&show_icons=true&locale=en&layout=compact" alt="alaeddineth" /></p>
 
