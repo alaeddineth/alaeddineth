@@ -1,5 +1,4 @@
 ### Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaeddineth&show_icons=true)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alaeddineth&show_icons=true" alt="alaeddineth" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaeddineth&show_icons=true&locale=en&layout=compact" alt="alaeddineth" /></p>
