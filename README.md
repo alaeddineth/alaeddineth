@@ -39,7 +39,7 @@
 -  [Freelancer Platform](): Developed a freelancer platform.
 
 ### Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaeddineth&show_icons=true&locale=en&layout=compact" alt="alaeddineth" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaeddineth&show_icons=true&locale=en&layout=compact" alt="alaeddineth" /></p>
 
 Here are some ideas to get you started:
 
