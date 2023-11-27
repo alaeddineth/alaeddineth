@@ -29,8 +29,6 @@
 ![PHP](https://img.shields.io/badge/PHP-Expert-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-Expert-red)
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-lightgrey)
-### Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaeddineth&show_icons=true&locale=en&layout=compact" alt="alaeddineth" /></p>
 
 ### Key Projects
 - [Real-Time Tracking Application](): Developed a real-time vehicle tracking system using Vue.js, Teltonika trackers, and WebSocket technology for low-power devices.
@@ -40,6 +38,8 @@
 - [Leave Management System (LMS) Application](): Developed an LMS web app for tracking and managing employee leaves, enhancing HR processes.
 -  [Freelancer Platform](): Developed a freelancer platform.
 
+### Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaeddineth&show_icons=true&locale=en&layout=compact" alt="alaeddineth" /></p>
 
 Here are some ideas to get you started:
 
