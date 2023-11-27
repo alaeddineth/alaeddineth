@@ -1,7 +1,13 @@
-### Hi there 👋
+# Hi there! 👋
 
-<p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=alaeddineth&show_icons=true" alt="alaeddineth" /></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaeddineth&show_icons=true&locale=en&layout=compact" alt="alaeddineth" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alaeddineth&show_icons=true" alt="alaeddineth" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaeddineth&show_icons=true&locale=en&layout=compact" alt="alaeddineth" />
+</p>
+
 
 
  ### Languages and Tools
