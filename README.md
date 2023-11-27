@@ -1,11 +1,18 @@
 ### Hi there 👋
+<style>
+  .languages-and-tools {
+    margin-top: 20px; /* Adjust the margin-top value as needed */
+  }
+</style>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=alaeddineth&show_icons=true" alt="alaeddineth" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaeddineth&show_icons=true&locale=en&layout=compact" alt="alaeddineth" /></p>
 
 <br> <!-- Line break added here -->
-
-<h3 align="left">Languages and Tools:</h3>
+<div class="languages-and-tools">
+<h3  align="left">Languages and Tools:</h3>
+</div>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
