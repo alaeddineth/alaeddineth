@@ -19,12 +19,6 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
-### Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaeddineth&show_icons=true&locale=en&layout=compact" alt="alaeddineth" /></p>
-
-
-
-
 ### Skills and Technologies
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
@@ -35,6 +29,8 @@
 ![PHP](https://img.shields.io/badge/PHP-Expert-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-Expert-red)
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-lightgrey)
+### Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaeddineth&show_icons=true&locale=en&layout=compact" alt="alaeddineth" /></p>
 
 ### Key Projects
 - [Real-Time Tracking Application](): Developed a real-time vehicle tracking system using Vue.js, Teltonika trackers, and WebSocket technology for low-power devices.
